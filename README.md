@@ -5,7 +5,7 @@
 - Docker, Traefik, NGINX, GNU/Debian Linux, Markdown
 
 ### 📱 How to reach me ... 
-- Comment on my projects or reach me on Matrix at @baja_squid:matrix.org
+- Comment on my projects or reach me on Matrix at @baja-squid:matrix.org
 
 <!---
 RGBeezlebub/RGBeezlebub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
